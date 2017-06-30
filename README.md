@@ -1,2 +1,5 @@
-# WeiboHome
-仿微博、简书主页结构（基于UIScrollView + UIScrollView + 多个自控制器的tableview或view）容器（父子）控制器
+### 仿微博、简书主页结构（基于UIScrollView + UIScrollView + 多个自控制器的tableview或view）容器（父子）控制器
+
+本文旨在分享我的一种实现方式。网上对于这种仿微博、简书的个人主页的结构都有较好的封装，大家可以直接去使用，而我的采用了一种简单的、易于理解的、自认为也是比较好的一种实现方式来达到你们想要的效果。\<br>
+
+简书地址：http://www.jianshu.com/p/eaa64216bf12
